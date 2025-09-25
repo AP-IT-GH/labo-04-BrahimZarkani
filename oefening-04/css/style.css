@@ -1,0 +1,37 @@
+table {
+  border: 1px solid black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  table-layout: fixed;
+  font-size: 0.5rem;
+  color: white;
+  text-align: center;
+}
+
+caption {
+  color: black;
+}
+
+th {
+  background-color: black;
+  padding: 10px;
+}
+
+.web {
+  background-color: red;
+}
+
+.db {
+  background-color: blue;
+}
+
+.it-e {
+  background-color: darkslategray;
+}
+
+.it-o {
+  background-color: lightgray;
+}
+
+td {
+  padding: 5px;
+}

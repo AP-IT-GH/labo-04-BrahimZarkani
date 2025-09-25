@@ -1,0 +1,22 @@
+table {
+  color: white;
+  font-family: Arial, sans-serif;
+  border: 1px solid black;
+  text-align: center;
+}
+
+tr:nth-child(even) {
+  background-color: darkgrey;
+}
+
+tr:nth-child(odd) {
+  background-color: grey;
+}
+
+th {
+  background-color: black;
+}
+
+td {
+  color: black;
+}
